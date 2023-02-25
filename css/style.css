@@ -13,3 +13,20 @@ body{
     color: #fff;
     font-size: 1.5rem;
 }
+
+h1, h2, h3, h4{
+    line-height: 3rem;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    width: 100%;
+}
