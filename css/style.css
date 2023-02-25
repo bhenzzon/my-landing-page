@@ -89,7 +89,7 @@ img {
     font-size: 5.2rem;
     line-height: 1.6rem;
     margin: 0 0 2rem;
-    box-shadow: 0 1px 0 rgba(0,0,0,0.45);
+    text-shadow: 0 1px 0 rgba(0,0,0,0.45);
 }
 
 .header-content p{
