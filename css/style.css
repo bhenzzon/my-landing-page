@@ -118,3 +118,27 @@ img {
     outline: none;
     box-shadow: 0 1px 0 rgba(0,0,0,0.45);
 }
+
+.btn:hover{
+    opacity: 0.9;
+}
+
+.btn-rounded{
+    border-radius: 5px;
+}
+
+.btn-x1 {
+    font-size: 1.9rem;
+    padding: 1rem 2.1rem;
+    text-transform: uppercase;
+}
+
+.btn-lg{
+    font-size: 1.2rem;
+    padding: 0.8rem 1.3rem;
+    text-transform: uppercase;
+}
+
+.fa-fw{
+    margin-left: 1rem;
+}
