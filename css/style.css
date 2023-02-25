@@ -84,7 +84,7 @@ img {
 
 .header-content a{
     position: absolute;
-    top: 40%;
+    top: 50%;
     left: 0;
     transform: translate(-50%, -50%);
 }
